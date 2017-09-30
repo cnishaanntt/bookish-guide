@@ -41,7 +41,7 @@ XLSExtension.prototype.load = function () {
         ForgeXLS.embedQR(statusCallback);
     };
     button1.addClass('toolbarQRButton');
-    button1.setToolTip('Embed QR Markup');
+    button1.setToolTip('Schedules');
 
     // SubToolbar
     this.subToolbar = new Autodesk.Viewing.UI.ControlGroup('myAppGroup1');
