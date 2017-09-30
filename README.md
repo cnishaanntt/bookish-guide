@@ -1,6 +1,6 @@
 # Bookish guide
 
-Schedule for element, area and surface schedules
+Element, area and surface schedules
 
 # Description
 
