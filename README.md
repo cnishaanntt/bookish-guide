@@ -1,14 +1,14 @@
-# QR code
+# Bookish guide
 
-QR markup code
+Schedule for element, area and surface schedules
 
 # Description
 
-This application demonstrates how to embed QR markups on your BIM360 files.  The code demonstates 3-legged OAuth to BIM360, a simple viewer extension and code to handle BIM 360 docs.
+This application demonstrates how to extract data from your BIM360 files enabling schedules.  The code demonstates 3-legged OAuth to BIM360, a simple viewer extension and code to handle BIM 360 docs.
 
 ### Live version
 
-Video: [Youtube](https://www.youtube.com/watch?v=OL0fOJl_BAM)
+Video: [Youtube](https://www.youtube.com/watch?v=s2M0FSd6kS8&feature=youtu.be)
 
 # Setup
 
@@ -77,6 +77,4 @@ After installing Github desktop for Windows, on the Git Shell, if you see a ***e
 This sample is licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 Please see the [LICENSE](LICENSE) file for full details.
 
-## Written by
 
-Forge Partner Development
